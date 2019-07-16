@@ -1,0 +1,10 @@
+{
+  "name": "jbg-api-util",
+  "main": "index.js",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "node-rest-client": "~1.8.0",
+    "winston": "^3.2.1"
+  }
+}
